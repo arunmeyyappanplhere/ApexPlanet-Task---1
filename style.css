@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    padding: 30px;
+    padding-top: 10%;
+}
+
+div{
+    font-size: xx-large;
+}
+
+img{
+    width: 600px;
+}
+
+.btn-int{
+    margin-left: 20%;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(255, 115, 0);
+    color: white;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
